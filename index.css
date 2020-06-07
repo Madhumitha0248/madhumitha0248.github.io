@@ -48,6 +48,12 @@ h4
 h5
 {
   margin-top: 0.5rem;
+  color: purple;
+}
+p
+{
+  color: purple;
+  size: 25;
 }
 
 hr
